@@ -1,0 +1,4 @@
+FUGA
+=====
+
+hatano
